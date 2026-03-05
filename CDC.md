@@ -182,19 +182,7 @@ L'application comportera 4 écrans principaux accessibles via une barre de navig
 
 ---
 
-## 7. Répartition des Tâches (Exemple)
-
-| Membre | Responsabilités |
-|--------|----------------|
-| Membre 1 | Modèles de données, base de données SQLite |
-| Membre 2 | Écrans Login, Profil et navigation |
-| Membre 3 | Tableau de bord et graphiques |
-| Membre 4 | Écran dépenses (ajout, liste, modification) |
-| Membre 5 | Objectifs d'épargne et tests |
-
----
-
-## 8. Livrables
+## 7. Livrables
 
 - Code source complet sur dépôt Git
 - Application fonctionnelle sur Android
